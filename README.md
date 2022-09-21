@@ -1,5 +1,5 @@
 Old school C Windows malware dev.  
-Stepped back, in college for CIS now. Getting familiar with new tools + languages.  
+Stepped back for a few years, in college for CIS now. Getting familiar with new tools + languages.  
 I love systems and their security, and markets and their participants.   
   
 Welcome
