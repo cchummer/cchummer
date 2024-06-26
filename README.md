@@ -1,4 +1,4 @@
-Old school C Windows programmer, 25.  
+Old school C Windows programmer, 26.  
 Stepped back for a few years, now in college for CIS. Getting familiar with new tools + languages.  
 I love systems and their security, and markets and their participants.   
   
