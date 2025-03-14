@@ -1,5 +1,5 @@
-Old school C Windows programmer, 26.  
-Stepped back for a few years, now in college for CIS. Getting familiar with new tools + languages.  
+Old school C Windows programmer, 27.  
+Recent CIS grad. Getting familiar with new tools + languages.  
 I love systems and their security, and markets and their participants.   
   
 https://www.linkedin.com/in/ammar23/
